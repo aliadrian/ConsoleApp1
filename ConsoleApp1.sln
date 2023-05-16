@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotatePaper", "RotatePaper\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersistentBugger", "PersistentBugger\PersistentBugger.csproj", "{0C3E7F89-D604-4492-B972-A93E7A2F0690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumsOfParts", "SumsOfParts\SumsOfParts.csproj", "{1043899F-29EC-40CD-BD2B-1742ACE35848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumsOfParts", "SumsOfParts\SumsOfParts.csproj", "{1043899F-29EC-40CD-BD2B-1742ACE35848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowels", "ReverseVowels\ReverseVowels.csproj", "{53194295-C8C0-43CD-B265-0785E75DD0AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{1043899F-29EC-40CD-BD2B-1742ACE35848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1043899F-29EC-40CD-BD2B-1742ACE35848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1043899F-29EC-40CD-BD2B-1742ACE35848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53194295-C8C0-43CD-B265-0785E75DD0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53194295-C8C0-43CD-B265-0785E75DD0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53194295-C8C0-43CD-B265-0785E75DD0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53194295-C8C0-43CD-B265-0785E75DD0AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
